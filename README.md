@@ -1,6 +1,5 @@
 # soxl-playbook
 
-SOXL isolated 7x pullback-long auto-trading playbook (0.66 retracement x4, 1.5% sizing, 5-min tracking, per-weight Close TPs, RSI80 half trim, surveillance-safe ops).
+Merged into **[kdhchgo-bit/soxl-box-pyramid](https://github.com/kdhchgo-bit/soxl-box-pyramid)** (wave-linked 4-box pyramid + 5-min routine).
 
-- Outward docs are English; agent-facing `SKILL.md` stays Korean.
-- Private repo on purpose: it holds live order sizing logic.
+This repo stays as a redirect pointer. Live logic lives in soxl-box-pyramid (`SKILL.md` + `ANALYSIS.md` + `PLAYBOOK.md` + `scripts/ladder.mjs`).
